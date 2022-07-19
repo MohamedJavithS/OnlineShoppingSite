@@ -1,1 +1,1 @@
-Online shopping site using HTML and CSS
+Online shopping site using HTML and Inline CSS
